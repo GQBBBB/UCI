@@ -2,10 +2,16 @@
 
 ### Data preparation
 Download [COVID-19-20 dataset](https://covid-segmentation.grand-challenge.org).
+
 Preprocess the COVID-19-20 dataset according to the [nnUNet](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1).
+
 Download [ChestXray14 dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345).
+
 Download [ChestXR dataset](https://cxr-covid19.grand-challenge.org).
+
 Weight initialization：we follow the extension of [UniMiSS](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_33) for weight initialization. (coming soon)
+
+
 
 File directory tree:
 ```
